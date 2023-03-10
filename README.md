@@ -50,7 +50,7 @@ Submit your responses to prompts 3(a) – 3(d), which are described below. Your 
 
 1. Describes the overall **purpose** of the program
 
-   _This program is a movie recommendation app designed to assist users in finding movies from the 2000s era based on their preferences._
+   _The sheer number of movies on Netflix presents a real problem for people deciding what to watch. Choosing one can be an overwhelming and time-consuming process. My program solves this problem by helping users find a 2000s-era movie aligned with their selected preferences. It is a powerful, time-saving tool that can help countless people around the world._
 
 2. Describes what **functionality** of the program is demonstrated in the video
 
